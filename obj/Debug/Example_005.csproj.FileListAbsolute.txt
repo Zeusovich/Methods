@@ -1,0 +1,7 @@
+E:\курсы\[DMC.RIP] [Skillbox] Профессия С# разработчик (2020)\Домашка\lesson 1-5\Theme_05\Example_005\bin\Debug\Example_005.exe.config
+E:\курсы\[DMC.RIP] [Skillbox] Профессия С# разработчик (2020)\Домашка\lesson 1-5\Theme_05\Example_005\bin\Debug\Example_005.exe
+E:\курсы\[DMC.RIP] [Skillbox] Профессия С# разработчик (2020)\Домашка\lesson 1-5\Theme_05\Example_005\bin\Debug\Example_005.pdb
+E:\курсы\[DMC.RIP] [Skillbox] Профессия С# разработчик (2020)\Домашка\lesson 1-5\Theme_05\Example_005\obj\Debug\Example_005.csproj.CoreCompileInputs.cache
+E:\курсы\[DMC.RIP] [Skillbox] Профессия С# разработчик (2020)\Домашка\lesson 1-5\Theme_05\Example_005\obj\Debug\Example_005.exe
+E:\курсы\[DMC.RIP] [Skillbox] Профессия С# разработчик (2020)\Домашка\lesson 1-5\Theme_05\Example_005\obj\Debug\Example_005.pdb
+E:\курсы\[DMC.RIP] [Skillbox] Профессия С# разработчик (2020)\Домашка\lesson 1-5\Theme_05\Example_005\obj\Debug\Example_005.csproj.AssemblyReference.cache
